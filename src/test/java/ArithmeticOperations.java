@@ -15,6 +15,9 @@ public class ArithmeticOperations {
     public static int add(int a,int b){
         return a+b;
     }
+    public static void Emine(){
+        //this is my method
+    }
 
     public static void Ali() {
         System.out.println("Hi to everybody");
