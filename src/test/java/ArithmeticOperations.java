@@ -4,7 +4,7 @@ public class ArithmeticOperations {
     }
 
     public static void Ali() {
-        System.out.println("Hi");
+        System.out.println("Hi to everybody");
     }
 
 }
