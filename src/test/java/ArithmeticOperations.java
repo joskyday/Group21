@@ -3,4 +3,10 @@ public class ArithmeticOperations {
 
     }
 
+    public static void Ali() {
+
+    }
+
 }
+
+
