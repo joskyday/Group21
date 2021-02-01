@@ -3,7 +3,7 @@ public class ArithmeticOperations {
 
       //Daryna
 
-            add(2,4);
+        System.out.println(add(2, 4));
 
     }
     public static void Joseph(){
@@ -26,5 +26,9 @@ public class ArithmeticOperations {
         //this is my code
     }
 }
+//try try try
+//again
+//no no no
+
 
 
