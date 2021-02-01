@@ -11,7 +11,7 @@ public class ArithmeticOperations {
     }
   
 
-    }
+
     public static int add(int a,int b){
         return a+b;
     }
@@ -19,7 +19,9 @@ public class ArithmeticOperations {
     public static void Ali() {
         System.out.println("Hi to everybody");
     }
-
+    public static void Cansu(){
+        //this is my code
+    }
 }
 
 
