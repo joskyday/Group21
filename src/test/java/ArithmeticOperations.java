@@ -6,6 +6,7 @@ public class ArithmeticOperations {
     public static void mustafa(){
         //this is  selam
         //yeni yorum
+        //gelmedimi
     }
 
 }
